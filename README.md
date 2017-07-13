@@ -1,0 +1,2 @@
+# timed
+test of speed
